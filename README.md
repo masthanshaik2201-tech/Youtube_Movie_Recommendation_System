@@ -33,7 +33,7 @@ and provide movie recommendations.
 1. Clone or download this repository.
 
 ```bash
-git clone https://github.com/your_username/MovieLens_Recommendation.git
+git clone https://github.com/masthanshaik2201-tech/Youtube_Movie_Recommendation_System.git
 ```
 2. Install dependencies:
 ```bash

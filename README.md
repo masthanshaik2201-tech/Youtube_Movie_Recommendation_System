@@ -1,4 +1,4 @@
-# MovieLens Recommendation System
+# Movie Recommendation System
 
 This project implements a movie recommendation system using the MovieLens 100k dataset. 
 It uses a Neural Collaborative Filtering (NCF) model built with PyTorch to predict user ratings 
